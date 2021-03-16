@@ -2,13 +2,32 @@
 A couple of different sources for learning and implementing biometrics solutions, prepared for biometric classes of the academy.
 
 ## What is Biometrics? 
-[thalesgroup.com](https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics) - the article contains definition, trends, use cases, laws and latest news about biometrics.
+[thalesgroup.com](https://www.thalesgroup.com/en/markets/digital-identity-and-security/government/inspired/biometrics) - the article in a short way describes the topic of biometrics. We can read about:
+- definition
+- trends
+- biometric identifiers
+- use cases (law, civil Identity, healthcare, etc.)
+- biometrics market
+- latest news
+
+#### What is a biometrics?
+"Biometrics is the most suitable means of identifying and authenticating individuals in a reliable and fast way through unique biological characteristics."
+
+#### Where is biometrics used?
+"Historically, applications using biometrics have been initiated by authorities for military access control, criminal or civil identification under a tightly regulated legal and technical framework. Today, sectors, including banking, retail, and mobile commerce, demonstrate a real appetite for the benefits of biometrics."
+
+#### The biometrics market
+"According to Global Markets Insights, the global biometric market is expected to top USD 50 billion by 2024. Non-AFIS will account for the highest biometrics market share, exceeding USD 18 billion by 2024. Biometric applications in the security and government sectors of North America are driving the regional market trends. The study claims, North America, with the U.S. at the helm, will represent more than 30% of the overall biometrics industry share by 2024. "
 
 ## Biometrics tutorial
-[javatpoint.com](https://www.javatpoint.com/biometrics-tutorial) - the website contains general information about biometrics history, advantages and disadvantages, type, and examples of uses in cryptography or machine learning.
+[javatpoint.com](https://www.javatpoint.com/biometrics-tutorial) - on the website we can go more depeer in the topic of biometrics. It is more practice-oriented. We can read about: 
+- advantages and disadvantages, 
+- types of biometrics
+- uses in machine learning (with a quick description of algorithms)
+- uses in cryptography
 
 ## BiometricsManager in Android
-[developer.android.com](https://developer.android.com/training/sign-in/biometric-auth) - quick tutorial for using biometric authentication in the android system. 
+[developer.android.com](https://developer.android.com/training/sign-in/biometric-auth) - quick tutorial for using biometric authentication in the android system. It is a fully practice project with which we can add biometric authentication to our own app.
 
 ## Biometrics security
 [csoonline.com](https://www.csoonline.com/article/3339565/what-is-biometrics-and-why-collecting-biometric-data-is-risky.html) - An Article about security of biometrics, and why is so dangerous.
