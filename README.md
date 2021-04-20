@@ -43,9 +43,9 @@ A couple of different sources for learning and implementing biometrics solutions
 [Your fingerprints reveal more than you think - Simona Francese](https://www.youtube.com/watch?v=0DHywidLX6A) - lecture about how many we can learn from single fingerprint and how police use these information for investigation.
 
 ## Practical sources
-- [An efficient algorithm for fingerprint preprocessing and feature extraction](https://www.sciencedirect.com/science/article/pii/S1877050910003479) by P. Gnanasivam and S. Muttan
-- [react-native-biometrics](https://github.com/SelfLender/react-native-biometrics) - biometrics module for react native
-- [local_auth](https://pub.dev/packages/local_auth) - biometrics library for Flutter
-- [OpenCV](https://github.com/opencv/opencv) - C++ library for image processing, can be use for face recognization and other biometrics implementations
-- [OpenCV - tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html) - tutorials for OpenCV from official website
-- [EmguCV](https://github.com/emgucv/emgucv) - a cross platform .Net wrapper for the OpenCV 
+1. [An efficient algorithm for fingerprint preprocessing and feature extraction](https://www.sciencedirect.com/science/article/pii/S1877050910003479) by P. Gnanasivam and S. Muttan
+2. [react-native-biometrics](https://github.com/SelfLender/react-native-biometrics) - biometrics module for react native
+3. [local_auth](https://pub.dev/packages/local_auth) - biometrics library for Flutter
+4. [OpenCV](https://github.com/opencv/opencv) - C++ library for image processing, can be use for face recognization and other biometrics implementations
+5. [OpenCV - tutorials](https://docs.opencv.org/master/d9/df8/tutorial_root.html) - tutorials for OpenCV from official website
+6. [EmguCV](https://github.com/emgucv/emgucv) - a cross platform .Net wrapper for the OpenCV 
